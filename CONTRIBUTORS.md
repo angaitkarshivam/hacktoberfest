@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Shivam Angaitkar
+ - Place: Maharashtra, INDIA
+ - Bio: Aspiring Forensics Analyst.
+ - GitHub: [Shivam](https://github.com/angaitkarshivam)
